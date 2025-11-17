@@ -135,21 +135,5 @@ The **Advanced Analytics layer** performs higher-level statistical and business 
 
 ---
 
-## 🎯 4. Strategic Recommendations
 
-1. **Seasonal Optimization:**  
-   Increase ad spend and stock before peak (Oct–Dec).
 
-2. **Customer Retention:**  
-   Create loyalty tiers for high-value customers to sustain recurring revenue.
-
-3. **Product Strategy:**  
-   Focus on expanding high-margin subcategories and phasing out low-profit SKUs.
-
-4. **Forecasting Readiness:**  
-   Data supports time-series forecasting (e.g., ARIMA, Prophet) for inventory or demand planning.
-
----
-
-✅ **In summary:**  
-Your EDA and Advanced Analytics layers successfully convert transactional data into **strategic insights** that enhance marketing, sales, and product decisions — showing strong SQL design and analytical thinking.
